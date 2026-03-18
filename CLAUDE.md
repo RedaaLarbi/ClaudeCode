@@ -21,4 +21,4 @@ Each project is a **self-contained `.html` file** with inline `<style>` and `<sc
 
 ## Git Workflow
 
-Commit and push to GitHub (`origin/main`) at the end of each completed task. Use clean, descriptive commit messages focused on what changed and why.
+After completing any meaningful unit of work — a new feature, a bug fix, a refactor — stage the relevant files, commit with a clean descriptive message, and push to `origin/main`. Do not batch up many unrelated changes into a single commit. The goal is that the GitHub remote always reflects the latest working state so nothing is ever lost.
